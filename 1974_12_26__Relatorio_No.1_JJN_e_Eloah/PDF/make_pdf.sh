@@ -6,8 +6,7 @@ do
 done
 
 echo "And now generating the lowres PDF..."
-convert ../originais/*.jpg Relatório_n1_JJN_1979.pdf
-
-#rm ../original_pages/pagina_*.jpg -f
+convert ../originais/*.jpg 1974_12_26__Relatório_No.1_JJN_e_Eloah.pdf
+rm ../originais/pagina_*.jpg -f
 
 echo "done."
