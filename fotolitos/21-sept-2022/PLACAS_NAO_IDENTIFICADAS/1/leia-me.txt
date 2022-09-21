@@ -1,0 +1,11 @@
+Essa placa eu ACHO que estava junto com outras dentro de um envelope chamado "VCA / PORT / AMPL / MODL".
+
+Das outras placas escaneadas, temos:
+* D/A 8BITS 
+* PORTAMENTO (que deve ser PORT)
+* MODULADOR (que deve ser MODL)
+
+Ainda não sei o que é VCA e AMPL
+
+
+FSanches 2022-SET-21
