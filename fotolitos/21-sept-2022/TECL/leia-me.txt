@@ -1,0 +1,6 @@
+O GitHub tem um limite de tamanho máximo de arquivo em 100 MBytes.
+Como alguns desses scans de alta resolução dos fotolitos (em 1200 dpi) resultaram em arquivos maiores que esse limite, optei por separá-los em duas partes (arquivos *.png.parte_00 e *.png.parte_01).
+
+Para visualizar as imagens, concatene os arquivos dessa forma:
+
+cat nao_identificada_1_1200dpi.png.parte_* > nao_identificada_1_1200dpi.png
